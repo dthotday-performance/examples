@@ -27,4 +27,4 @@ spec:
   tls:
   - hosts:
     - simplenode-dev.<DOMAIN>.nip.io
-    #secretName: sockshop-tls
+    #secretName: simplenode-tls
